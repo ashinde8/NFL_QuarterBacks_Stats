@@ -1,0 +1,100 @@
+Player,Tm,Pos,Cmp,Att,Yds,TD,Int,Lng,Sk,Yds.1,4QC,GWD
+Drew Brees*,NOR,QB,471,673,5208,37,15,98,27,184,2,4
+Joe Flacco,BAL,QB,436,672,4317,20,15,95,33,243,2,2
+Blake Bortles,JAX,QB,368,625,3905,23,16,51,34,197,1,1
+Aaron Rodgers *,GNB,QB,401,610,4428,40,7,60,35,246,0,2
+Carson Wentz,PHI,QB,379,607,3782,16,14,73,33,213,1,1
+Kirk Cousins *,WAS,QB,406,606,4917,25,12,80,23,190,4,4
+Eli Manning,NYG,QB,377,598,4027,26,16,75,21,142,3,6
+Carson Palmer,ARI,QB,364,597,4233,26,14,80,40,281,1,3
+Matthew Stafford,DET,QB,388,594,4327,24,10,73,37,216,8,8
+Philip Rivers*,SDG,QB,349,578,4386,33,21,59,36,188,1,1
+Jameis Winston,TAM,QB,345,567,4090,28,18,45,35,239,1,3
+Andy Dalton*,CIN,QB,364,563,4206,18,8,86,41,264,2,1
+Derek Carr*,OAK,QB,357,560,3937,28,6,75,16,79,7,7
+Sam Bradford,MIN,QB,395,552,3877,20,5,71,37,276,1,1
+Russell Wilson,SEA,QB,353,546,4219,21,11,59,41,293,4,3
+Andrew Luck,IND,QB,346,545,4240,31,13,64,41,268,4,4
+Matt Ryan*+,ATL,QB,373,534,4944,38,7,76,37,235,1,2
+Cam Newton,CAR,QB,270,510,3509,19,14,88,36,277,,
+Brock Osweiler,HOU,QB,301,510,2957,15,16,53,27,206,2,2
+Ben Roethlisberger*,PIT,QB,328,509,3819,29,13,72,17,141,2,2
+Alex Smith*,KAN,QB,328,489,3502,15,8,80,28,140,3,3
+Trevor Siemian,DEN,QB,289,486,3401,18,10,76,31,187,3,2
+Dak Prescott *,DAL,QB,311,459,3667,23,4,83,25,143,5,5
+Marcus Mariota,TEN,QB,276,451,3426,26,9,60,23,156,2,2
+Tyrod Taylor,BUF,QB,269,436,3023,17,6,84,42,192,1,1
+Tom Brady *,NWE,QB,291,432,3554,28,2,79,15,87,1,1
+Ryan Fitzpatrick,NYJ,QB,228,403,2710,12,17,57,19,81,,
+Ryan Tannehill,MIA,QB,261,389,2995,19,12,74,29,216,3,3
+Colin Kaepernick,SFO,QB,196,331,2241,16,4,65,36,207,1,1
+Player,Tm,Pos,Cmp,Att,Yds,TD,Int,Lng,Sk,Yds,4QC,GWD
+Case Keenum,LAR,QB,196,322,2201,9,11,65,23,140,1,2
+Matt Barkley,CHI,QB,129,216,1611,8,14,37,6,43,,
+Jared Goff,LAR,qb,112,205,1089,5,7,66,26,222,,
+Brian Hoyer,CHI,qb,134,200,1445,6,0,64,4,18,,
+Cody Kessler,CLE,QB,128,195,1380,6,2,44,21,140,,
+Josh McCown,CLE,qb,90,165,1100,6,6,54,18,126,,
+Blaine Gabbert,SFO,qb,91,160,925,5,6,75,11,48,,
+Robert Griffin III,CLE,qb,87,147,886,2,3,58,22,138,,
+Jay Cutler,CHI,qb,81,137,1059,4,5,54,17,104,,
+Bryce Petty,NYJ,,75,133,809,3,7,52,13,79,1,1
+Matt Moore,MIA,,55,87,721,8,3,66,1,0,1,2
+Landry Jones,PIT,,53,86,558,4,2,51,4,34,1,1
+Paxton Lynch,DEN,,49,83,497,2,1,31,9,42,,
+Tom Savage,HOU,,46,73,461,0,0,32,5,36,2,2
+Jimmy Garoppolo,NWE,,43,63,502,4,0,37,3,15,1,1
+Jacoby Brissett,NWE,,34,55,400,0,0,58,6,46,,
+Nick Foles,KAN,,36,55,410,3,0,49,4,34,,
+Derek Anderson,CAR,,36,53,453,2,5,48,0,0,,
+Matt Cassel,TEN,,30,51,284,2,2,50,5,23,,
+Drew Stanton,ARI,,19,48,192,2,3,29,1,8,,
+Scott Tolzien,IND,,23,37,216,1,2,32,3,21,,
+Shaun Hill,MIN,,19,35,242,0,0,33,1,7,,
+Kevin Hogan,CLE,,14,26,104,0,2,17,2,10,,
+EJ Manuel,BUF,,11,26,131,0,0,35,3,20,,
+Charlie Whitehurst,CLE,,14,24,182,1,1,31,2,14,,
+Connor Cook,OAK,,14,21,150,1,1,32,2,7,,
+Trevone Boykin,SEA,,13,18,145,1,1,31,1,5,,
+Mark Sanchez,DAL,,10,18,93,0,2,33,3,25,,
+Matt McGloin,OAK,,8,15,50,0,0,19,0,0,,
+Geno Smith,NYJ,,8,14,126,1,1,69,3,19,,
+Player,Tm,Pos,Cmp,Att,Yds,TD,Int,Lng,Sk,Yds,4QC,GWD
+Mike Glennon,TAM,,10,11,75,1,0,13,0,0,,
+Cardale Jones,BUF,,6,11,96,0,1,64,1,2,,
+Brett Hundley,GNB,,2,10,17,0,1,9,0,0,,
+Terrelle Pryor,CLE,WR,5,9,41,0,0,26,1,1,,
+Ryan Mallett,BAL,,3,6,26,0,1,12,0,0,,
+Sean Mannion,LAR,,3,6,19,0,1,9,0,0,,
+David Fales,CHI,,2,5,22,0,0,12,1,5,,
+Tony Romo,DAL,,3,4,29,1,0,15,0,0,,
+Matt Schaub,ATL,,1,3,16,0,0,16,0,0,,
+Johnny Hekker*+,LAR,,1,2,4,0,0,4,0,0,,
+DeMarco Murray*,TEN,RB,1,2,10,1,0,10,0,0,,
+Doug Baldwin *,SEA,WR,1,1,15,1,0,15,0,0,,
+Cole Beasley,DAL,WR,0,1,0,0,0,0,0,0,,
+Le'Veon Bell*,PIT,RB,0,1,0,0,0,0,0,0,,
+Travis Benjamin,SDG,WR,0,1,0,0,0,0,0,0,,
+Dez Bryant*,DAL,WR,1,1,10,1,0,10,0,0,,
+Kellen Clemens,SDG,,0,1,0,0,0,0,0,0,,
+Pharoh Cooper,LAR,,0,1,0,0,1,0,0,0,,
+Chase Daniel,PHI,,1,1,16,0,0,16,0,0,,
+Riley Dixon,DEN,,1,1,16,0,0,16,0,0,,
+Larry Fitzgerald*,ARI,WR,0,1,0,0,0,0,0,0,,
+Josh Huff,2TM,,0,1,0,0,0,0,0,0,,
+Duke Johnson,CLE,rb,0,1,0,0,0,0,0,0,,
+Jarvis Landry *,MIA,WR,0,1,0,0,0,0,0,0,,
+Marqise Lee,JAX,wr,1,1,20,1,0,20,0,0,,
+Jeremy Maclin,KAN,WR,0,1,0,0,0,0,0,0,,
+Pat McAfee*,IND,,1,1,35,0,0,35,0,0,,
+Tanner McEvoy,SEA,,1,1,43,0,0,43,0,0,,
+Jerick McKinnon,MIN,RB,0,1,0,0,0,0,0,0,,
+Cameron Meredith,CHI,WR,1,1,2,1,0,2,0,0,,
+Player,Tm,Pos,Cmp,Att,Yds,TD,Int,Lng,Sk,Yds,4QC,GWD
+Antonio Morrison,IND,,0,1,0,0,0,0,0,0,,
+Dontari Poe,KAN,NT,1,1,2,1,0,2,0,0,,
+Jon Ryan,SEA,,0,1,0,0,0,0,0,0,,
+Willie Snead,NOR,WR,1,1,50,1,0,50,0,0,,
+Justin Tucker*+,BAL,,0,1,0,0,0,0,0,0,,
+Tress Way,WAS,,1,1,31,0,0,31,0,0,,
+Jonathan Williams,BUF,,0,1,0,0,0,0,0,0,,
